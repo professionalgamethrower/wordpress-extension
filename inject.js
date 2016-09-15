@@ -30,7 +30,6 @@ var injected = injected
 						text += (curNode.textContent + '\n');
 
 				}
-				//console.log('TEXT: \n' + text);
 				return text;
 
 			};
